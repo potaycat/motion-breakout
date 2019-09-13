@@ -6,3 +6,6 @@ I was learning pyGame when I found this breakout clone was one of the example pr
 just added motion control to it
 
 Sick name, eh gameplay, bruh graphic
+
+
+edit: I found the original project! https://www.pygame.org/project/1832/3207
